@@ -1,0 +1,6 @@
+.build
+meilisearch_exporter
+*.tar.gz
+*-stamp
+.tarballs
+/vendor
