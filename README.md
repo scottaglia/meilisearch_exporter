@@ -2,6 +2,12 @@
 
 Prometheus exporter for Meilisearch.
 
+## Usage
+
+### Install
+
+You can download the pre-built binary from the [Github releases page](https://github.com/scottaglia/meilisearch_exporter/releases).
+
 ### Configuration
 
 Below is the command line options summary:
