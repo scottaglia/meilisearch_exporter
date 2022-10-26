@@ -1,9 +1,7 @@
-name: goreleaser
+name: release
 
 on:
   push:
-    branches:
-      - '**'
     tags:
       - '*'
 
